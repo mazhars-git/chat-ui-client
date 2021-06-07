@@ -1,0 +1,49 @@
+.right-sidebar{
+    box-shadow: -2px 0px 10px rgb(151, 151, 252);
+}
+.search-icon{
+    position: absolute;
+    z-index: 1; 
+}
+.input-box{
+    position: relative;
+    top: -11px;
+    left: -8px;
+    width: 90%;
+}
+
+.search-input input{
+    border-radius: 30px;
+    border: none;
+    padding: 6px 28px;
+}
+
+.icon-style{
+    background-color: #E8EDFF;
+    padding: 20px;
+    font-size: 20px;
+    border-radius: 50%;
+}
+.chat{
+    border-right: 2px solid #E8EDFF;
+}
+
+.attachment{
+    text-align: center;
+    padding-bottom: 50px;
+}
+.attachment a{
+    text-decoration: none;
+    padding: 10px 10px;
+    margin: 0 3px;
+    background-color: #E8EDFF;
+    border-radius: 2px;
+    font-size: 12px;
+    color: #6f95fc;
+}
+.btn-style{
+    border-radius: 30px;
+    font-size: 12px;
+    border: 2px solid #6f95fc;
+    color: #6f95fc;
+}

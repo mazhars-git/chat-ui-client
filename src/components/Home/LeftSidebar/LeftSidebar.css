@@ -1,0 +1,14 @@
+.left-sidebar{
+    box-shadow: 2px 0px 10px rgb(151, 151, 252);
+}
+.profile-content{
+    margin-left: 10px;
+}
+.img-style{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.text-style{
+    margin: 0;
+}

@@ -1,0 +1,19 @@
+.chatBox-header{
+    box-shadow: 0px 2px 10px gray;
+    padding: 10px 8px;
+}
+
+.header-img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+.chatBox-icon ul{
+    margin: 0;
+    padding: 0;
+}
+.chatBox-icon ul li{
+    list-style: none;
+    float: left;
+    margin: 0 5px;
+}
